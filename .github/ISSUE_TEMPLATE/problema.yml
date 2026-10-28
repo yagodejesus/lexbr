@@ -1,0 +1,14 @@
+name: Relatar um problema
+description: Algo não funcionou como esperado
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: O que aconteceu?
+      description: Inclua a entrada (com dados fictícios), o resultado obtido e o esperado.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Versão
+      placeholder: "pip show nome-do-pacote"

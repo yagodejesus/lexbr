@@ -1,0 +1,71 @@
+LEI Nº 99.999, DE 1º DE JANEIRO DE 2026
+
+Dispõe sobre o uso de dados abertos por órgãos públicos municipais e dá outras providências. (Norma fictícia, criada para demonstração.)
+
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
+
+Art. 1º Esta Lei dispõe sobre a publicação de dados abertos pelos órgãos públicos municipais.
+
+Art. 2º Para os fins desta Lei, considera-se:
+
+I - dado aberto: dado acessível ao público, em formato legível por máquina;
+
+II - formato aberto: formato de arquivo não proprietário, cuja especificação esteja disponível, como:
+
+a) CSV;
+
+b) JSON, desde que acompanhado de:
+
+1. dicionário de dados;
+
+2. data da última atualização;
+
+III - órgão público: o órgão da administração direta ou indireta do Município. (Redação dada pela Lei nº 99.998, de 2026)
+
+Parágrafo único. Não se aplica esta Lei a dados protegidos por sigilo legal.
+
+CAPÍTULO II
+DA PUBLICAÇÃO
+
+Seção I
+Dos Requisitos
+
+Art. 3º Os dados serão publicados em portal único, com licença que permita a reutilização.
+
+§ 1º A publicação deverá ocorrer no prazo de noventa dias contados da coleta.
+
+§ 2º (Revogado pela Lei nº 99.998, de 2026)
+
+Art. 3º-A. Os órgãos deverão manter catálogo atualizado dos conjuntos de dados. (Incluído pela Lei nº 99.998, de 2026)
+
+Art. 4º (VETADO).
+
+Seção II
+Da Qualidade
+
+Art. 10. Os conjuntos de dados deverão observar os seguintes critérios de qualidade:
+
+I - completude, com todos os registros disponíveis;
+
+II - atualidade, com a menor defasagem possível entre a coleta e a publicação;
+
+III - acessibilidade, inclusive para pessoas com deficiência;
+
+IV - interoperabilidade, com o uso de padrões e vocabulários comuns;
+
+V - rastreabilidade, com a indicação da fonte e das transformações aplicadas;
+
+VI - integridade, sem alterações não documentadas.
+
+CAPÍTULO III
+DISPOSIÇÕES FINAIS
+
+Art. 11. Esta Lei entra em vigor na data de sua publicação.
+
+Brasília, 1º de janeiro de 2026; 205º da Independência e 138º da República.
+
+FULANO DE TAL
+Beltrano de Tal
